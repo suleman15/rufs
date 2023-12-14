@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "availability": 5,
+    "price": 999.99,
+    "description": "Powerful laptop with high-performance specifications for work and entertainment."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "availability": 3,
+    "price": 499.99,
+    "description": "Feature-packed smartphone with a high-resolution camera and advanced functionalities."
+  },
+  {
+    "id": 3,
+    "name": "Men's Watch",
+    "category": "Fashion",
+    "availability": 4,
+    "price": 79.99,
+    "description": "Elegant men's watch with a stainless steel band and water-resistant design."
+  },
+  {
+    "id": 4,
+    "name": "Coffee Maker",
+    "category": "Appliances",
+    "availability": 2,
+    "price": 49.99,
+    "description": "Compact coffee maker with programmable settings for brewing your favorite coffee."
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "availability": 8,
+    "price": 89.99,
+    "description": "Comfortable and durable running shoes designed for long-distance running."
+  },
+  {
+    "id": 6,
+    "name": "Desk Chair",
+    "category": "Furniture",
+    "availability": 9,
+    "price": 129.99,
+    "description": "Ergonomic desk chair with adjustable features for optimal comfort during work hours."
+  },
+  {
+    "id": 7,
+    "name": "Cookware Set",
+    "category": "Kitchen",
+    "availability": 2,
+    "price": 149.99,
+    "description": "Complete cookware set with non-stick pans and durable utensils for a variety of recipes."
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Earbuds",
+    "category": "Electronics",
+    "availability": 1,
+    "price": 39.99,
+    "description": "Wireless Bluetooth earbuds with noise-cancellation technology for immersive audio experience."
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "category": "Fashion",
+    "availability": 2,
+    "price": 29.99,
+    "description": "Stylish backpack with multiple compartments for convenient storage and organization."
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "category": "Sports",
+    "availability": 76,
+    "price": 79.99,
+    "description": "Smart fitness tracker with heart rate monitoring and activity tracking features."
+  }
+]
